@@ -1406,7 +1406,7 @@
       border-radius: 20px;
     }
   
-    .Projects-avatar-box img { width: 80px; }
+    .Projects-avatar-box img { width: 80px; border-radius: 20px; }
   
     .Projects-item-title {
       margin-bottom: 10px;
@@ -1415,7 +1415,7 @@
   
     .Projects-text {
       line-clamp: 2;
-      -webkit-line-clamp: 2;
+      -webkit-line-clamp: 4;
     }
   
     /* Projects modal */
